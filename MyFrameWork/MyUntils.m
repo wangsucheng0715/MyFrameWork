@@ -12,6 +12,7 @@
 
 - (void)logMessage:(NSString*)message{
     NSLog(@"this message %@",message);
+    NSLog(@"test commit");
 }
 
 @end
